@@ -1,6 +1,6 @@
 # Drawing App
 
-A simple and interactive drawing application built with Python and Tkinter. This app allows users to create drawings, choose colors, adjust brush sizes, and save their artwork. 
+A simple and interactive drawing application built with Python and Tkinter. This app allows users to create drawings, choose colors, adjust brush sizes, and save their artwork.
 
 ## Features
 
@@ -15,6 +15,8 @@ A simple and interactive drawing application built with Python and Tkinter. This
 
 To install and run the drawing app, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ikonik24/drawing_app.git
+```bash
+git clone https://github.com/yourusername/drawing_app.git
+cd drawing_app
+pip install tkinter pillow
+python drawing_app.py
